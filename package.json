@@ -1,0 +1,35 @@
+{
+  "name": "flexo",
+  "version": "1.0.0",
+  "description": "scss generated css animations",
+  "main": "_flexo.scss",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charlespeters/flexo.git"
+  },
+  "keywords": [
+    "scss",
+    "flexbox",
+    "grid"
+  ],
+  "author": "charles peters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlespeters/flexo/issues"
+  },
+  "homepage": "https://github.com/charlespeters/flexo",
+  "devDependencies": {
+    "browser-sync": "^1.7.2",
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^2.0.0",
+    "gulp-pixrem": "^0.1.1",
+    "gulp-plumber": "^0.6.6",
+    "gulp-ruby-sass": "^0.7.1"
+  }
+}
