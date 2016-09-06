@@ -1,4 +1,4 @@
-# Flexo
+# Flexo.scss
 
 A collection of Sass snippets for Flexbox
 
