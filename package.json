@@ -1,13 +1,13 @@
 {
   "name": "flexo",
   "version": "1.0.0",
-  "description": "scss generated css animations",
+  "description": "scss flexbox snippets",
   "main": "_flexo.scss",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "gulp"
+    "bundle": "node-sass ./index.scss ./dist/flexo.css -o dist --output-style expanded"
   },
   "repository": {
     "type": "git",
@@ -25,11 +25,6 @@
   },
   "homepage": "https://github.com/charlespeters/flexo",
   "devDependencies": {
-    "browser-sync": "^1.7.2",
-    "gulp": "^3.8.10",
-    "gulp-autoprefixer": "^2.0.0",
-    "gulp-pixrem": "^0.1.1",
-    "gulp-plumber": "^0.6.6",
-    "gulp-ruby-sass": "^0.7.1"
+    "node-sass": "*"
   }
 }

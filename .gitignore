@@ -2,3 +2,4 @@ config.codekit
 css/
 .sass-cache
 node_modules
+dist/

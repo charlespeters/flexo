@@ -1,7 +1,7 @@
-Flexo
----
-I'm working on it. Comeback soon. You're all awesome.
+# Flexo
 
-![](http://bukk.it/cookie-wait.gif)
+A collection of Sass snippets for Flexbox
 
-You're gonna wanna run this in a build step, with Autoprefixer, like a lot.
+<a href="https://github.com/charlespeters/VVWIP" align="right">
+  <img src="https://unpkg.com/vvwip/IGVP.svg" align="right" alt="IGVP" />
+</a>
